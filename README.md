@@ -1,17 +1,17 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Chandrakant Patil
 
 ### Final Year Computer Engineering Student
 
-💻 Passionate about Software Development, Machine Learning, and Cloud Computing.
+💻 Passionate about Software Development and Cloud Computing.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Final Year Computer Engineering Student
-- 🌱 Currently learning Java, Spring Boot, AWS, and System Design
-- 👨‍💻 Interested in Full Stack Development and Machine Learning
-- 📫 Email: your_email@example.com
+- 🌱 Currently learning Java, Spring Boot, AWS, and SQL
+- 👨‍💻 Interested in Full Stack Development and 
+- 📫 Email: chandrakant31716@gmail.com
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### Backend
 - Spring Boot
-- Flask
+- node.js
 
 ### Database
 - MySQL
@@ -41,7 +41,6 @@
 - Git
 - GitHub
 - VS Code
-- Postman
 
 ---
 
@@ -54,14 +53,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-(Add GitHub stats images here.)
-
----
-
 ## 🌐 Connect with Me
 
-- LinkedIn:
-- Portfolio:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/chandrakant-patil-27235028b/
+- Portfolio: https://chandrakantpatilcp.in/
+- Email: chandrakant31716@gmail.com
