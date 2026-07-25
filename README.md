@@ -56,7 +56,7 @@
 - It aims to simplify access to quality study materials by allowing students to share resources across subjects and semesters.
 - Built with Spring Boot, MySQL, and a modern frontend, CampusNote provides a secure, user-friendly, and collaborative learning experience.
 
-### Carbon Credit Predictor App
+### Carbon Credit Predictor App ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 - Machine Learning application developed using Python.
 - Predicts carbon credit values using environmental parameters.
 - Built with Scikit-learn, Pandas, NumPy, and Streamlit.
