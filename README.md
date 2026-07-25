@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandrakant Patil
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPOSITORY)
+<p align="center">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPOSITORY)</p>
 
 ### Final Year Computer Engineering Student
 
@@ -47,6 +47,13 @@
 ---
 
 ## 📌 Featured Projects
+
+### POrtfolio ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+### CampusNote : A notes sharing platform ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
+- CampusNote is a student-focused notes sharing platform that enables users to upload, organize, discover, and download academic notes in one place.
+- It aims to simplify access to quality study materials by allowing students to share resources across subjects and semesters.
+- Built with Spring Boot, MySQL, and a modern frontend, CampusNote provides a secure, user-friendly, and collaborative learning experience.
 
 ### Carbon Credit Predictor App
 - Machine Learning application developed using Python.
