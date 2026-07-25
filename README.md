@@ -49,6 +49,7 @@
 ## 📌 Featured Projects
 
 ### POrtfolio ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+- Link : https://chandrakantpatilcp.in/
 
 ### CampusNote : A notes sharing platform ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
 - CampusNote is a student-focused notes sharing platform that enables users to upload, organize, discover, and download academic notes in one place.
@@ -63,5 +64,4 @@
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/chandrakant-patil-27235028b/
-- Portfolio: https://chandrakantpatilcp.in/
 - Email: chandrakant31716@gmail.com
