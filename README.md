@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandrakant Patil
 
-<p align="center">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPOSITORY)</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPOSITORY)
 
 ### Final Year Computer Engineering Student
 
