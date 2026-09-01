@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 🎓 Final Year Computer Engineering Student
-- 🌱 Currently learning Java, Spring Boot, AWS, and SQL
-- 👨‍💻 Interested in Full Stack Development and 
+- 🌱 Currently learning Java, Spring Boot, AWS, and AI
+- 👨‍💻 Interested in Full Stack Development and AIML
 - 📫 Email: chandrakant31716@gmail.com
 
 ---
