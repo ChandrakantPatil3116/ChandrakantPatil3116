@@ -60,6 +60,11 @@
 - CampusNote is a student-focused notes sharing platform that enables users to upload, organize, discover, and download academic notes in one place.
 - It aims to simplify access to quality study materials by allowing students to share resources across subjects and semesters.
 - Built with Spring Boot, MySQL, and a modern frontend, CampusNote provides a secure, user-friendly, and collaborative learning experience.
+  
+### Mini Bank: ![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=for-the-badge)
+- MiniBank is a full-stack banking web application for managing user accounts and basic banking operations.
+- Built with HTML, CSS, JavaScript, Node.js, Express.js, and MySQL with bcrypt-based password hashing.
+- Supports registration, login, deposits, withdrawals, money transfers, balance tracking, and transaction history.
 
 ### Carbon Credit Predictor App ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 - Machine Learning application developed using Python.
